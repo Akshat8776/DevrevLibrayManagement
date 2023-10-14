@@ -26,4 +26,4 @@
   10. For more details or description of a book, the search bar can be used
   11. A simple UI of the login and signup page is also designed
 
-For any updates or bugs, feel free to raise an issue! Thank you!
+For any updates or bugs, feel free to raise an issue! Thank you! 
